@@ -1,0 +1,1 @@
+# SMS-MAN-API-Review-2026-integration-limits-and-stability
